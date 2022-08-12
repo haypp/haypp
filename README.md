@@ -21,20 +21,14 @@
   <div align="center">
   📫 Feel Free to contact me
   <br><br>
-  <a href="https://www.linkedin.com/in/andy-ra"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ivanandy45@gmail.com">
+  <a href="mailto:reyjuna.al@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/I.A.Ramadhann">
+  <a href="https://www.facebook.com/jhunalfi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?&style=flat&logo=facebook&logoColor=white">
   </a>
-  <a href="https://instagram.com/iv.and.y">
+  <a href="https://instagram.com/jhunalfi">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=6281331760041&text=Hi Andy I got your contact from Github">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat&logo=whatsapp&logoColor=white">
   </a>
   </div>
 </body>
